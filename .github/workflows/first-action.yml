@@ -6,7 +6,7 @@ jobs:
     steps:
       - name: print greeting
         run: |
-        echo "Hello World"
-        ls -la
-        date
-        echo "Done!"
+            echo "Hello World"
+            ls -la
+            date
+            echo "Done!"
